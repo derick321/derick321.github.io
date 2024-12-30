@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-12-30-2024 연말결산.md",
+                "file": "_drafts/2024-12-30-2024 연말결산.md",
                 "mode": "source",
                 "source": false
               },
@@ -163,10 +163,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29b9231b70384bef",
+  "active": "d057a8ccb4e60c87",
   "lastOpenFiles": [
+    "_drafts",
+    "새 폴더",
     "_posts/2024-11-18-Chirpy로 블로그 시작하기.md",
-    "_posts/2024-12-30-2024 연말결산.md",
+    "_drafts/2024-12-30-2024 연말결산.md",
+    "README.md",
     "_posts/2024-12-30-2024년 연말결산.md",
     "assets/images/image.png",
     "assets/images/profile.jpg"
